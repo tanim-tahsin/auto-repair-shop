@@ -1,9 +1,22 @@
-## Full stack project 
-## Auto Mobile Shop
-## Material used 
-react, react router, node js, mongo db, firebase, heruku
+# Auto Repair Shop - A complete solution for car repair
+[Visit Website](https://auto-repair-9dc05.web.app/)
+### Features
+- Website for repair cars
+- User has to login first to order any work
+- Users can give review
+- Admins can add services
+- An admin can make more admins
+- An admin can access and see activities of users
+### Technologies Used
+- React JS
+- React Router
+- Bullet list Node JS
+- Express JS
+- MongoDB
+- Firebase Auth and hosting
+- Bootstrap
+- Heroku
 
-# live link
-https://auto-repair-9dc05.web.app/
-# server side link
-https://immense-beyond-89177.herokuapp.com/
+
+***
+### [My Resume]()
