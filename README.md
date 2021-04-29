@@ -3,6 +3,8 @@
 ### Features
 - Website for repair cars
 - User has to login first to order any work
+- User can buy a service with stripe payment method
+- User can see their purchase products
 - Users can give review
 - Admins can add services
 - An admin can make more admins
